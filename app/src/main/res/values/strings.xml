@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lb4_Town</string>
+    <string name="btn2">Достопримечательности</string>
+    <string name="btn1">Кафе</string>
+    <string name="logo">Куда сходить в Санкт-Петербурге</string>
+    <string name="cafe1">Пожалуй, одна из лучших пышечных в Центральном и Адмиралтейском районе! Под веселые песни из репродуктора можно расположиться в трех симпатичных залах, наполненных живыми цветами. Главное блюдо ― петербургский мем, о котором втайне мечтают седовласый интеллигент и бородатый хипстер, первоклассник и серьезный мужчина в пиджаке. </string>
+    <string name="logo_cafe1">Пышечка</string>
+    <string name="cafe2">Founded in 2004 and located in the very center of St. Petersburg, Zoom works equally as a cafe, library, info-point and gallery. From breakfast in the afternoon to a late night bar, Zoom offers European and Russian cuisine, advocating for quality food, affordability and value. The Zoom library keeps track of important news in the areas of fiction, non-fiction, art / culture, periodicals and children\'s books.</string>
+    <string name="logo_cafe2">Зум кафе</string>
+</resources>
