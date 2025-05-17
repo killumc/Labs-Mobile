@@ -26,19 +26,20 @@
     <EditText
         android:id="@+id/user_field"
 
-        android:layout_marginTop="50sp"
-        android:layout_marginLeft="15sp"
-        android:layout_marginRight="100sp"
-
-
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/logo"
+
+
+        android:layout_marginLeft="15sp"
+        android:layout_marginTop="50sp"
+        android:layout_marginRight="100sp"
         android:backgroundTint="@color/logo"
         android:ems="10"
+        android:hint="@string/hint_user_field"
         android:inputType="text"
-        android:textColor="@color/logo"
-        android:hint="@string/hint_user_field" />
+        android:minHeight="48sp"
+        android:textColor="@color/logo" />
 
     <Button
         android:id="@+id/main_button"
